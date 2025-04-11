@@ -9,3 +9,5 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+GPG KEY: 
