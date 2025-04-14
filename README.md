@@ -13,5 +13,5 @@ Other        30 mins         >>-----------------------   09.50 %
 <!--END_SECTION:waka-->
 
 GPG
-Fingerprint: 69954DD2962ACDE3FD2BB8B4FB353328CD918097
-Public Key:  
+Fingerprint: 6995 4DD2 962A CDE3 FD2B B8B4 FB35 3328 CD91 8097
+Public Key:  https://github.com/Hari-c137/Hari-c137/blob/main/Key.gpg
