@@ -12,4 +12,6 @@ Other        30 mins         >>-----------------------   09.50 %
 
 <!--END_SECTION:waka-->
 
-GPG KEY: 
+GPG
+Fingerprint: 69954DD2962ACDE3FD2BB8B4FB353328CD918097
+Public Key:  
