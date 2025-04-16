@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 April 2025 - To: 14 April 2025
+From: 07 April 2025 - To: 15 April 2025
 
-Total Time: 7 hrs 34 mins
+Total Time: 10 hrs 2 mins
 
-C            1 hr 13 mins    >>>>---------------------   14.86 %
-Bash         1 hr 5 mins     >>>----------------------   13.28 %
-HTML         47 mins         >>-----------------------   09.63 %
-conf         39 mins         >>-----------------------   07.96 %
-Other        38 mins         >>-----------------------   07.71 %
+Bash          2 hrs 52 mins   >>>>>>>------------------   26.92 %
+C             1 hr 26 mins    >>>----------------------   13.44 %
+HTML          56 mins         >>-----------------------   08.79 %
+conf          40 mins         >>-----------------------   06.30 %
+Other         38 mins         >------------------------   05.94 %
 ```
 
 <!--END_SECTION:waka-->
