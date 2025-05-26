@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 April 2025 - To: 24 May 2025
+From: 07 April 2025 - To: 25 May 2025
 
-Total Time: 69 hrs 58 mins
+Total Time: 70 hrs 25 mins
 
-C             17 hrs 9 mins   >>>>>--------------------   21.85 %
-Other         8 hrs 30 mins   >>>----------------------   10.84 %
+C             17 hrs 9 mins   >>>>>--------------------   21.68 %
+Other         8 hrs 40 mins   >>>----------------------   10.97 %
 ```
 
 <!--END_SECTION:waka-->
