@@ -1,3 +1,8 @@
+<p align="center"> <img height="40%" src="https://github.com/Hari-c137/Hari-c137/blob/main/viktor-arcane.gif" /> </p>
+<p align="center">  I do NOT want to hear about your AI project.  </p>
+
+
+
 <!--START_SECTION:waka-->
 
 ```rust
