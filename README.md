@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 April 2025 - To: 06 October 2025
+From: 07 April 2025 - To: 07 October 2025
 
 Total Time: 149 hrs 4 mins
 
