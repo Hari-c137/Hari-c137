@@ -1,5 +1,19 @@
-<p align="center"> <img height="40%" src="https://github.com/Hari-c137/Hari-c137/blob/main/viktor-arcane.gif" /> </p> 
-<p align="center"> "This is all a moo point. like a cow's opinion, it doesn't matter" </p>
+
+
+## <p align="center"> Give Up Github </p>
+
+
+<p align="center"> <img height="350px" src="https://sfconservancy.org/static/img/GiveUpGitHub.png" /> </p> 
+
+<p style="text-align:center;"> 
+All my personal projects are slowly being migrated to <a href="https://www.codeberg.org/clearlyopaque">Codeberg</a> as I’m quitting GitHub, and you should too if you care about your code and privacy. All of my code hosted on GitHub will be publicly archived by the end of the year.  
+
+GitHub is a proprietary, trade-secret system that is not Free and Open Source Software (FOSS). I urge you to read about the <a href="https://GiveUpGitHub.org">Give Up GitHub</a> campaign from <a href="https://sfconservancy.org">the Software Freedom Conservancy</a> to understand some of the reasons why GitHub is not a good place to host FOSS projects.
+
+Any use of code by GitHub Copilot, past or present, is done without our permission. We do not consent to GitHub's use of this project's code in Copilot.
+</p>
+
+
 
 <!--START_SECTION:waka-->
 
@@ -14,10 +28,3 @@ Other                 30 hrs 45 mins  >>>----------------------   11.83 %
 ```
 
 <!--END_SECTION:waka-->
-
-### GPG <br />
-Fingerprint:     6995 4DD2 962A CDE3 FD2B B8B4 FB35 3328 CD91 8097 <br />
-Public Key:      https://github.com/Hari-c137/Hari-c137/blob/main/Key.gpg
-
-
-migrating to [codeberg](https://www.codeberg.org/clearlyopaque) from 2026 onwards
