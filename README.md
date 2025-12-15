@@ -18,3 +18,6 @@ Other                 30 hrs 45 mins  >>>----------------------   11.83 %
 ### GPG <br />
 Fingerprint:     6995 4DD2 962A CDE3 FD2B B8B4 FB35 3328 CD91 8097 <br />
 Public Key:      https://github.com/Hari-c137/Hari-c137/blob/main/Key.gpg
+
+
+migrating to [codeberg](https://www.codeberg.org/clearlyopaque) from 2026 onwards
