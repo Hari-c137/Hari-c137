@@ -28,7 +28,3 @@ Other                 30 hrs 45 mins  >>>----------------------   11.55 %
 ```
 
 <!--END_SECTION:waka-->
-
-<hr>
-
-<h3 align="center"> graveyard of unfinished projects that will never see the light of day (⊙_☉) </h3>
