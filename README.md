@@ -28,3 +28,8 @@ Other                 30 hrs 45 mins  >>>----------------------   11.50 %
 ```
 
 <!--END_SECTION:waka-->
+
+<hr>
+
+My personal projects are hosted and maintained over at [Codeberg](https://codeberg.org/clearlyopaque/) <br>
+Primarily uses GitHub for web hosting and contributing to GitHub-only projects. <br>
