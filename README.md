@@ -1,4 +1,4 @@
-
+<!--
 
 ## <p align="center"> Give Up Github </p>
 
@@ -13,7 +13,7 @@ GitHub is a proprietary, trade-secret system that is not Free and Open Source So
 Any use of my code by GitHub Copilot, past or present, is done without our permission. I do not consent to GitHub's use of my code in Copilot.
 </p>
 
-
+-->
 
 <!--START_SECTION:waka-->
 
