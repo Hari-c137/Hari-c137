@@ -33,7 +33,10 @@ Other                 36 hrs 20 mins        >>>----------------------   11.10 %
 <hr>
 
 My personal projects are hosted and maintained over at [Codeberg](https://codeberg.org/clearlyopaque/) <br>
-Primarily uses GitHub for web hosting and contributing to GitHub-only projects. <br>
+Primarily uses GitHub for their web hosting services and contributing to GitHub-only projects. <br>
+if you care about your privacy like i do and don't want LLMs to training on your code, ditch Github
+
+
 <!--
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) 
 --> 
