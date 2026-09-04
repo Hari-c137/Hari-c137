@@ -34,7 +34,7 @@ Other                 36 hrs 20 mins        >>>----------------------   11.09 %
 
 My personal projects are hosted and maintained over at [Codeberg](https://codeberg.org/clearlyopaque/) <br>
 Primarily uses GitHub for their web hosting services and contributing to GitHub-only projects. <br>
-if you care about your privacy like i do and don't want LLMs to training on your code, ditch Github
+if you care about your privacy and don't want LLMs to training on your code, ditch Github
 
 
 <!--
